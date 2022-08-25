@@ -1,0 +1,23 @@
+Which one is better AI or big data? 
+The big data industry has grown at an incredible rate as businesses realize the importance of insightful data analysis. We will compare how big data corresponds to artificial intelligence, what are the similarities and what are the differences between them, whether any one of them is better than the other or how the combination of both leads to results beyond traditional human capability.
+Artificial Intelligence
+Artificial Intelligence is defined as the ability of a machine to apply logic and reason to analyze, interpret inputs, and, ultimately, make decisions. It is the recreation of human intelligence with machines.
+There are numerous, real-world applications of AI systems today. A few of them are online chatbots, Recommendation engines, Speech Recognition, Computer vision, etc. We all have AI, assistants, on our phones like Google Assistant, Apple’s Siri, Samsung’s Bixby, Amazon’s Alexa, and many more applications that are using speech recognition systems. Online retailers are using recommendation engines to suggest relevant recommendations to customers during the checkout process. computer vision has applications within photo tagging in social media, radiology imaging in healthcare, and self-driving cars within the automotive industry.
+
+Big Data
+Big data comes into play when the volume of data is too large for traditional data management practices to be effective. Big Data is a field focused on managing a large volume of data from a variety of sources. 
+The essence of big data can be broken into “the three v’s of big data”:
+Volume: The amount of data being collected
+Velocity: The rate at which data is received and acted upon
+Variety: The different forms of data collected, (structured, Semi-Structured, and unstructured data sources).
+Similarity
+AI and Big Data are both data-driven technologies.
+Differences
+The difference between artificial intelligence and big data lies in the output of each. Artificial intelligence analyses inputs to learn and improve its sorting or patterning processes over time, using data that it gathers to provide a more accurate solution. In contrast, big data is the information that is accumulated from various data sources, to then be analyzed by artificial intelligence. Big data and artificial intelligence are often used in conjunction with one another, but each fulfills very different roles, one is information and the other is the application of that information.
+The collection and storage of large volume data i.e., Big Data is used by Machine learning models. Based on these Machine learning models Artificial Intelligence makes decisions.
+Comparison
+AI uses data but its ability to analyze, learn from this data, make decisions, solve complex problems depends upon the quality of information that is fed to the system. Big Data provides this vast of this information to train AI. By harnessing big data resources, artificial intelligence systems can make more informed decisions, provide better user recommendations. Most big companies like Google, YouTube, Amazon, Netflix, Spotify, and many others constantly collect and analyze user interaction data with their platforms maintaining user data security rules. Then based on these user data they run data models to predict user demand, taste, and behavioral patterns. As a result of which, these platforms are able to provide optimized recommendations for what to watch or listen to next. Google’s own feature phone, the Google Pixel, has the best camera because it uses AI to improve the quality of the pictures. This AI is so good because it was trained on data Google got from a trove of images on the Internet.
+Conclusions
+Big data makes it possible for Artificial Intelligent (AI) to reach its fullest potential. There is no artificial intelligence without big data.
+However, Big data and artificial intelligence are interdependent meaning they cannot exist without one another. If one is taken out of the picture, then another one cannot exist. Big Data and AI are two technologies of posterity which do not compete but complement each other.
+Blackcoffer Insights 31: Indrani Chakraborty, Developer at TCS 
